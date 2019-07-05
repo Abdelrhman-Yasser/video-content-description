@@ -27,10 +27,7 @@ We extracted the visual features of the data set using :
 
 Here is the our architecture.
 
-<p align="center">
-  <src="Images/arch.PNG">
-</p>
-
+![](/Images/arch.PNG){:class="img-responsive"}
 
 # Checkpoints
 
