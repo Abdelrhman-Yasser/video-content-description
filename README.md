@@ -17,10 +17,6 @@ The main idea is to generate descritptions for unconstrained videos, which can b
 # Dataset
 
 We use the Microsoft Research Video to Text (MSVD) dataset.
-Example of the dataset is shown below.
-<p align="center">
-  <img width="650" height="350" src="Images/dataset.PNG">
-</p>
 
 # Extracted Visual Feature
 We extracted the visual features of the data set using :
