@@ -1,4 +1,4 @@
-# video-content-description
+# Video Content Description
 
 Increasing trend in the research community for video processing using artificial intelligence.
 Trending Tasks:
@@ -16,7 +16,7 @@ The main idea is to generate descritptions for unconstrained videos, which can b
 
 # Dataset
 
-We use the Microsoft Research Video to Text (MSVD) dataset.
+We use the **Microsoft Research Video to Text (MSVD)** dataset.
 
 # Extracted Visual Feature
 We extracted the visual features of the data set using :
@@ -44,7 +44,7 @@ We have trained the model using different techniques.
 
 # Results
 
-From the results obtained in the explained experiments,  we found out that the best results obtained are from using attention and drop out. Our model outperforms the original paper model in all used metrics as shown in the following table:
+From the results obtained in the explained experiments,  we found out that the best results obtained are from using attention and drop out. **Our model outperforms the original paper model in all used metrics** as shown in the following table:
 
 <p align="center">
   <img width="650" height="350" src="Images/results.PNG">
