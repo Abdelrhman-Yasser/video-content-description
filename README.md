@@ -27,7 +27,7 @@ We extracted the visual features of the data set using :
 
 Here is the our architecture.
 <p align="center">
-  <img width="200" height="350" src="Images/dataset.PNG">
+  <img src="Images/arch.PNG">
 </p>
 
 # Checkpoints
