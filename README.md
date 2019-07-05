@@ -28,7 +28,7 @@ We extracted the visual features of the data set using :
 Here is the our architecture.
 
 <p align="center">
-  <class="img-responsive" src="Images/arch.PNG">
+  <src="Images/arch.PNG">
 </p>
 
 
